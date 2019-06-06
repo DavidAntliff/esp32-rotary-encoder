@@ -38,7 +38,7 @@ The source is available from [GitHub](https://www.github.com/DavidAntliff/esp32-
 
 ## License
 
-The code in this project is licensed under the GPLv3 license - see LICENSE for details.
+The code in this project is licensed under the GPLv3 license, or (at your option) any later version. - see LICENSE for details.
 
 ## Links
 

@@ -1,5 +1,7 @@
 # esp32-rotary-encoder
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Introduction
 
 This ESP32 component uses a debouncing state machine to track the position of an [incremental](https://en.wikipedia.org/wiki/Rotary_encoder#Incremental) rotary encoder such as the [EC11](https://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11_list.html) or [LPD3806](https://www.codrey.com/electronic-circuits/paupers-rotary-encoder/).

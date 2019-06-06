@@ -1,5 +1,6 @@
 # esp32-rotary-encoder
 
+[![Platform: ESP-IDF](https://img.shields.io/badge/ESP--IDF-v3.0%2B-blue.svg)](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3+-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Introduction
@@ -16,7 +17,7 @@ Encoders that provide a push button are supported, however this component does n
 
 ## Dependencies
 
-It is written and tested for the [ESP-IDF](https://github.com/espressif/esp-idf) environment, using the xtensa-esp32-elf toolchain (gcc version 5.2.0).
+It is written and tested for v3.0-v3.2 of the [ESP-IDF](https://github.com/espressif/esp-idf) environment, using the xtensa-esp32-elf toolchain (gcc version 5.2.0). It may or may not work with older or newer versions.
 
 ## Example
 

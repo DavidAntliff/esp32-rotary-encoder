@@ -26,8 +26,8 @@ An example application that uses this component is available: [esp32-rotary-enco
 ## Features
 
 * Publication of an event into a user-supplied queue when the encoder moves to either a full or half step:
-** Full step mode, where the encoder must move through an entire sequence of four steps before an event is published.
-** Half step mode, where the encoder must move through half an entire sequence (two steps) before an event is published.
+  * Full step mode, where the encoder must move through an entire sequence of four steps before an event is published.
+  * Half step mode, where the encoder must move through half an entire sequence (two steps) before an event is published.
 
 ## Documentation
 
